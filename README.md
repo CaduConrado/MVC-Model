@@ -78,10 +78,13 @@ npm start
 ## Exemplo (Example): ##
 Tendo em vista o melhor entendimento do fluxo de funcionamento do projeto desenvolvi um pequeno frontend para demonstrar a funcionalidade das rotas presentes em **routes/**. 
 
-![Página Inicial]()
+![Página Inicial](https://github.com/CaduConrado/MVC-Model/blob/main/assets/todo_list_01.jpeg)
 
-![Detalhes do Produto]()
+![Criar Task](https://github.com/CaduConrado/MVC-Model/blob/main/assets/todo_list_02.jpeg)
 
+![Editando Task](https://github.com/CaduConrado/MVC-Model/blob/main/assets/todo_list_03.jpeg)
+
+![Finalizando Task](https://github.com/CaduConrado/MVC-Model/blob/main/assets/todo_list_04.jpeg)
 
 ## Estrutura do Projeto (Project Structure) ##
 
