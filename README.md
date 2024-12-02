@@ -1,4 +1,4 @@
-# MVC Mode  #
+# MVC Model  #
 
 ## Descrição (Description) ##
 
