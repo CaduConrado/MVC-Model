@@ -1,6 +1,6 @@
 # MVC Model  #
 
-## Descrição (Description ##
+## Descrição (Description) ##
 
 **Português**: Neste projeto o intuíto foi aplicar os conceitos da arquitetura MVC (Model, View and Controller), dividindo cada arquivo nas suas respectivas pastas de acordo com suas funcionalidades.
 
